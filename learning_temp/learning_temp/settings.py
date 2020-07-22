@@ -25,7 +25,7 @@ SECRET_KEY = 't0w$95p3!)zr#^zch$da7b^3b_h-vc(4$x@wu)9cs)z&^s7b+n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['asdixit11.pythonanywhere.com',]
 
 
 # Application definition
